@@ -1,6 +1,6 @@
 
 module.exports = {
-    port: 'https://towolf.herokuapp.com',
+    port: '3030',
     secret: 'Nicholas201231232134',
     database: 'mongodb://localhost:27017/Shop',
     email: 'nikola716@gmail.com',
